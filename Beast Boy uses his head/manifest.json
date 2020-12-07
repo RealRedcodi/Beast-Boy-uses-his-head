@@ -10,7 +10,7 @@
    },
    "default_locale": "en",
    "description": "Beast boy decides to use his head!",
-   "homepage_url": "https://blog.redcodi.com",
+   "homepage_url": "https://redcodi.space",
    "icons": {
       "128": "icons/icon128.png",
       "16": "icons/icon16.png",
@@ -23,5 +23,5 @@
    },
    "permissions": [ "gcm", "storage", "notifications", "identity" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.1.2"
+   "version": "0.1.3"
 }
