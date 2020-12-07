@@ -23,5 +23,5 @@
    },
    "permissions": [ "gcm", "storage", "notifications", "identity" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.1.3"
+   "version": "0.1.4"
 }
